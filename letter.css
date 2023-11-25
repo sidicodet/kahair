@@ -1,0 +1,24 @@
+p {
+    text-align: right;
+    font-weight: 300px;
+    font-style: capitalize;
+    font-size: large;
+    line-height: 32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+    text-shadow: -5px -5px 15px black ;
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(217, 68, 13);
+}
+
+button {
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 8rem;
+    height: 2rem;
+  }

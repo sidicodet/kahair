@@ -1,0 +1,44 @@
+h1 {
+    background-color: bisque;
+    color: black;
+    /*padding-top: 40px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-right: 30px;*/
+    padding: 40px 30px 20px 30px;
+    margin: 100px;
+    border: 10px solid black;
+    border-top: 10px solid yellow;
+    border-right: 10px solid gray;
+    border-bottom: 10px dotted orangered;
+    border-left: 10px dotted blueviolet;
+    border-radius: 50px 0px 50px 0px;
+}
+ /* How to use Background in css */
+ 
+h3 {
+    background-image: url(./Image/valuemax2.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: 0px;
+    background-attachment: relative;
+    text-align: justify;
+    color: black;
+    height: 300px;
+}
+
+button {
+    background-color: black;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: rgb(35, 37, 35);
+}
+a {
+    color: white;
+    font-weight: 300;
+    text-decoration: none;
+}
